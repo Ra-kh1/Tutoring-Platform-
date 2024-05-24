@@ -24,5 +24,17 @@ Use the search feature to find tutors based on subject, availability, or locatio
 Book a courses:
 Select a tutor and book a course at a convenient time.
 
-### Visuals
-Home page:
+### Contributors
+Raneem: Front-end / backend
+
+Ryyanah: Front-end / backend
+
+Maryam: Front-end
+
+Renad: backend
+
+Najibah: backend
+
+Fatima: backend
+
+
